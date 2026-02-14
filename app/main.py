@@ -68,7 +68,7 @@ from hand_gesture import detect_two_fingers
 from camera import capture_after_countdown
 from face_identity import extract_face
 from generator import generate_image
-
+# update main flow for photobooth
 cap = cv2.VideoCapture(0)
 captured = False
 
